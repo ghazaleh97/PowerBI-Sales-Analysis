@@ -1,5 +1,5 @@
 # Retail Sales Dashboard
-
+Dataset created for educational and portfolio purposes.
 ## Project Overview
 This project was developed using Microsoft Power BI to analyze retail sales data and create interactive business intelligence dashboards.
 
