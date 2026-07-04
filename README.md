@@ -31,4 +31,4 @@ This project was developed using Microsoft Power BI to analyze retail sales data
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashbord](dashbord.png)
